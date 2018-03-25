@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StudentChat.iml" filepath="$PROJECT_DIR$/StudentChat.iml" />
+      <module fileurl="file://D:\android learning\StudentChat-master\StudentChatProject\StudentChat.iml" filepath="D:\android learning\StudentChat-master\StudentChatProject\StudentChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentChatProject.iml" filepath="$PROJECT_DIR$/StudentChatProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
